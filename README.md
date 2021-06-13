@@ -15,9 +15,9 @@ In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDot
 >
 > :three: Using another implementation proposed by Microsoft Docs
 >
-> :four: Using an adhoc implementation based on IEquatable interface
+> :four: Using an adhoc implementation based on [IEquatable interface](https://docs.microsoft.com/en-us/dotnet/api/system.iequatable-1)
 >
-> :five: Using an implementation based on records
+> :five: Using an implementation based on [records](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/records)
 >
 
 In order to run benchmarks, type these commands in your favorite terminal :
