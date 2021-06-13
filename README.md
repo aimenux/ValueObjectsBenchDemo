@@ -20,8 +20,6 @@ In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDot
 > :five: Using an implementation based on records
 >
 
-
-
 In order to run benchmarks, type these commands in your favorite terminal :
 >
 > :writing_hand: `.\App.exe --filter DateValueObjectsBench`
