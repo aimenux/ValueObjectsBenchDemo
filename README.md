@@ -3,13 +3,13 @@
 Benchmarking various ways of creating value objects
 ```
 
-> *Value objects are one of the building blocks introduced in the [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) book written by Eric Evans. Value objects are immutable. They have no identity (Id/PrimaryKey) like we found in entity. Two value objects can be considered equal if both of them have the same type and the same attributes (Fields/Properties).*
+> *Value objects are one of the building blocks introduced in the [DDD](https://en.wikipedia.org/wiki/Domain-driven_design). Value objects are immutable. They have no identity (Id/PrimaryKey) like we found in entity. Two value objects can be considered equal if both of them have the same type and the same attributes (Fields/Properties).*
 
 In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) library in order to benchmark various ways of creating value objects :
 >
-> :one: Using an implementation proposed by Jimmy Bogard
+> :one: Using an [implementation proposed by Jimmy Bogard](http://grabbagoft.blogspot.com/2007/06/generic-value-object-equality.html)
 >
-> :two: Using an implementation proposed by Microsoft Docs
+> :two: Using an [implementation proposed by Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects#value-object-implementation-in-c)
 >
 > :three: Using another implementation proposed by Microsoft Docs
 >
