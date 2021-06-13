@@ -1,4 +1,4 @@
-[![.NET](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml)
+[![.NET 5](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml)
 
 # ValueObjectsBenchDemo
 ```
