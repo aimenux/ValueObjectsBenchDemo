@@ -3,7 +3,7 @@
 Benchmarking various ways of creating value objects
 ```
 
-> *Value objects are one of the building blocks introduced in the [DDD](https://en.wikipedia.org/wiki/Domain-driven_design). Value objects are immutable. They have no identity (Id/PrimaryKey) like we found in entity. Two value objects can be considered equal if both of them have the same type and the same attributes (Fields/Properties).*
+> *Value objects are one of the building blocks introduced in the [DDD](https://en.wikipedia.org/wiki/Domain-driven_design). Value objects are immutable. They have no identity like we found in entity. Two value objects can be considered equal if both of them have the same type and the same attributes (fields/properties).*
 
 In this demo, i m using [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) library in order to benchmark various ways of creating value objects :
 >
