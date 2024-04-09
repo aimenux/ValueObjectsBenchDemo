@@ -1,4 +1,4 @@
-[![.NET 5](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml)
+[![.NET](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml/badge.svg)](https://github.com/aimenux/ValueObjectsBenchDemo/actions/workflows/ci.yml)
 
 # ValueObjectsBenchDemo
 ```
@@ -49,4 +49,4 @@ In order to run benchmarks, type these commands in your favorite terminal :
 | EqualsMethodForWayA | 100000 | 310.033 ns | 6.0567 ns | 8.8778 ns | 308.713 ns | 300.472 ns | 342.655 ns |    5 | 0.0191 |     - |     - |      80 B |
 ```
 
-**`Tools`** : vs19, net 5.0
+**`Tools`** : net 8.0
